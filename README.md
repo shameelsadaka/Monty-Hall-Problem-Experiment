@@ -11,6 +11,8 @@ The answer sounds unlikely. After door 3 is opened, you would think that you the
 Those who switched doors won about 2/3 of the time
 Those who didn’t switch won about 1/3 of the time
 
+## Verifiying the solution by simulation
+
 I had verified the solution using a python program by iteratively running the experiment and it is observed that you will win almost 2/3 times on every experiments if you switch.
 
 
